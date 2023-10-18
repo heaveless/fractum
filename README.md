@@ -1,7 +1,4 @@
-# fractum
-
-**Repository Title:**
-Fractum: A Pygame-Based Polymorphic Fractals Simulator
+# Fractum
 
 **Description:**
 Fractum is an engaging and visually captivating Pygame project that serves as a versatile and interactive simulator for the exploration and creation of polymorphic fractals. Dive into the mesmerizing world of fractal geometry with this open-source game and discover the endless possibilities of fractal art and design.
